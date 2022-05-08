@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import $ from "jquery";
 import "jquery-ui-dist/jquery-ui";
+import jquery from "jquery";
 import { tools } from "./tools";
 import Tool from "./Tool";
 // import * as React from 'react';
