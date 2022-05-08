@@ -1,4 +1,4 @@
-https://img.shields.io/circleci/build/github/Lindokuhle777/studio
+![CircleCI](https://img.shields.io/circleci/build/github/Lindokuhle777/studio)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
