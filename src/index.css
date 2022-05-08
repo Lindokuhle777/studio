@@ -7,7 +7,22 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+textarea:focus { 
+  outline: none !important;
+  border-color: #719ECE;
+  box-shadow: 0 0 10px #719ECE;
+  
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.addBorder{
+  border: 1px solid red;
+  padding: 3px;
+}
+
+/* #draggable { width: 100px; height: 100px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; } */
+  /* #droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; } */
